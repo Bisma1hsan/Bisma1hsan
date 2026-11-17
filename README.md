@@ -116,22 +116,22 @@ Visit [my website](https://stefani-gifta.vercel.app/) or connect with me on:
 I'm an afternoon warrior
 
 ```text
-Morning                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46%
-Daytime                  378 commits         ██████████░░░░░░░░░░░░░░░   38.03%
-Evening                  347 commits         █████████░░░░░░░░░░░░░░░░   34.91%
-Night                    165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60%
+Morning                  105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55%
+Daytime                  378 commits         █████████░░░░░░░░░░░░░░░░   37.99%
+Evening                  347 commits         █████████░░░░░░░░░░░░░░░░   34.87%
+Night                    165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58%
 ```
 
 I'm most productive on Friday
 
 ```text
-Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68%
-Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
-Tuesday                  159 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00%
-Wednesday                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08%
-Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88%
-Friday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11%
-Saturday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87%
+Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67%
+Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36%
+Tuesday                  160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08%
+Wednesday                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07%
+Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87%
+Friday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10%
+Saturday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85%
 ```
 
 My most used language is JavaScript
@@ -140,17 +140,17 @@ My most used language is JavaScript
 JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   33.33%
 HTML                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00%
 TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11%
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
 Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
 Blade                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56%
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78%
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78%
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78%
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78%
 ```
 
 
 
- *Last updated on Mon, 16 Nov 2026 12:14:04 WIB*
+ *Last updated on Tue, 17 Nov 2026 13:57:10 WIB*
 <!--END_SECTION:fun-facts-->
 
 <!-- <br>
