@@ -4,6 +4,9 @@
 
 <a href="https://github.com/Bisma1hsan">![Bisma's metrics](metrics-base.svg)</a>
 
+**Instrumentation & Control Engineering @ UGM**  
+*Embedded Systems · PCB Design · Linux Homelab · Visual & Audio Production*
+
 ### <sup>LET'S CONNECT!</sup>
 
 connect with me on:
