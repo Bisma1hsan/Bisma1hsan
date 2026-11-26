@@ -1,17 +1,19 @@
 <div align="center">
 
-# *Hi, I'm Gifta*
+# *Hi, I'm Bisma*
 
-<a href="https://github.com/stefani-gifta">![Gifta's metrics](metrics-base.svg)</a>
+<a href="https://github.com/Bisma1hsan">![Bisma's metrics](metrics-base.svg)</a>
 
 ### <sup>LET'S CONNECT!</sup>
 
-Visit [my website](https://stefani-gifta.vercel.app/) or connect with me on:
+connect with me on:
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/stefani-gifta-ganda)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/bisma-ihsan-fausta)
+```
 [![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-595858?&logo=codepen-white&logoColor=black)](https://codepen.io/stefanigifta)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefanigifta)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanigiftaganda@gmail.com)
+```
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bismaihsnfs@gmail.com)
 
 <br>
 
@@ -28,8 +30,8 @@ Visit [my website](https://stefani-gifta.vercel.app/) or connect with me on:
 <br>
 
 <sup>`PERSONAL FAVS:`ㅤ</sup>
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 
@@ -41,12 +43,10 @@ Visit [my website](https://stefani-gifta.vercel.app/) or connect with me on:
 <br>
 
 <sup>`Languages`ㅤ</sup>
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 <sup>`Frontend`ㅤ</sup>
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -58,7 +58,6 @@ Visit [my website](https://stefani-gifta.vercel.app/) or connect with me on:
 
 <sup>`Backend`ㅤ</sup>
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630.svg?style=flat&logo=composer&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
@@ -68,8 +67,6 @@ Visit [my website](https://stefani-gifta.vercel.app/) or connect with me on:
 <sup>`Databases & Cloud`ㅤ</sup>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415.svg?style=flat&logo=railway&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat&logo=github&logoColor=white)
 
 <sup>`Data Science & AI`ㅤ</sup>
@@ -78,27 +75,19 @@ Visit [my website](https://stefani-gifta.vercel.app/) or connect with me on:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
-![Optuna](https://img.shields.io/badge/Optuna-002C76.svg?style=flat&logo=optuna&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=flat&logo=huggingface&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white)
 
 <sup>`Design & Productivity`ㅤ</sup>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+[![Adobe Illustrator](https://shields.io)](https://adobe.com)
 ![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)
-![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?style=flat&logo=blogger&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD.svg?style=flat&logo=perplexity&logoColor=white)
 
 <sup>`DevOps & Version Control`ㅤ</sup>
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=white)
 
 </details>
 
@@ -112,6 +101,7 @@ Visit [my website](https://stefani-gifta.vercel.app/) or connect with me on:
 
 <br>
 
+```
 <!--START_SECTION:fun-facts-->
 I'm an afternoon warrior
 
@@ -150,7 +140,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- *Last updated on Thu, 26 Nov 2026 14:13:48 WIB*
+ *Last updated on Thu, 5 Feb 2026 20:13:48 WIB*
 <!--END_SECTION:fun-facts-->
 
 <!-- <br>
