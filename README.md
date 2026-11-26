@@ -9,10 +9,6 @@
 connect with me on:
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/bisma-ihsan-fausta)
-```
-[![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-595858?&logo=codepen-white&logoColor=black)](https://codepen.io/stefanigifta)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefanigifta)
-```
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bismaihsnfs@gmail.com)
 
 <br>
@@ -21,9 +17,11 @@ connect with me on:
 
 <br>
 
+<!--
 ### <ins><sup>TOPICS I'VE WORKED ON</sup></ins>
 
 <a href="https://github.com/marketplace/actions/word-cloud-repo-topics">![Topics from repositories](topics.svg)</a>
+-->
 
 ### <ins><sup>MY TECH STACK</sup></ins>
 
@@ -78,7 +76,6 @@ connect with me on:
 
 <sup>`Design & Productivity`ㅤ</sup>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-[![Adobe Illustrator](https://shields.io)](https://adobe.com)
 ![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
@@ -93,54 +90,8 @@ connect with me on:
 
 <br>
 
----
-
-<br>
-
-### <ins><sup>FUN FACTS</sup></ins>
-
-<br>
-
-```
-<!--START_SECTION:fun-facts-->
-I'm an afternoon warrior
-
-```text
-Morning                  109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52%
-Daytime                  398 commits         ██████████░░░░░░░░░░░░░░░   38.42%
-Evening                  363 commits         █████████░░░░░░░░░░░░░░░░   35.04%
-Night                    166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02%
-```
-
-I'm most productive on Friday
-
-```text
-Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15%
-Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87%
-Tuesday                  160 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44%
-Wednesday                155 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96%
-Thursday                 139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42%
-Friday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34%
-Saturday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81%
-```
-
-My most used language is JavaScript
-
-```text
-JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   33.33%
-HTML                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00%
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11%
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
-Blade                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56%
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78%
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78%
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78%
-```
-
-
-
  *Last updated on Thu, 5 Feb 2026 20:13:48 WIB*
+ 
 <!--END_SECTION:fun-facts-->
 
 <!-- <br>
