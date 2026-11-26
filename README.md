@@ -5,7 +5,7 @@
 <a href="https://github.com/Bisma1hsan">![Bisma's metrics](metrics-base.svg)</a>
 
 **Instrumentation & Control Engineering @ UGM**  
-*Embedded Systems · PCB Design · Linux Homelab · Visual & Audio Production*
+*Embedded Systems · PCB Design · Visual & Audio Production*
 
 ### <sup>LET'S CONNECT!</sup>
 
